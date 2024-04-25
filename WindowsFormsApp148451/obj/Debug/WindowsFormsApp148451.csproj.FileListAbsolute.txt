@@ -1,0 +1,11 @@
+C:\Users\29361281\source\repos\WindowsFormsApp148451\WindowsFormsApp148451\bin\Debug\WindowsFormsApp148451.exe.config
+C:\Users\29361281\source\repos\WindowsFormsApp148451\WindowsFormsApp148451\bin\Debug\WindowsFormsApp148451.exe
+C:\Users\29361281\source\repos\WindowsFormsApp148451\WindowsFormsApp148451\bin\Debug\WindowsFormsApp148451.pdb
+C:\Users\29361281\source\repos\WindowsFormsApp148451\WindowsFormsApp148451\obj\Debug\WindowsFormsApp148451.csproj.AssemblyReference.cache
+C:\Users\29361281\source\repos\WindowsFormsApp148451\WindowsFormsApp148451\obj\Debug\WindowsFormsApp148451.Form1.resources
+C:\Users\29361281\source\repos\WindowsFormsApp148451\WindowsFormsApp148451\obj\Debug\WindowsFormsApp148451.Properties.Resources.resources
+C:\Users\29361281\source\repos\WindowsFormsApp148451\WindowsFormsApp148451\obj\Debug\WindowsFormsApp148451.csproj.GenerateResource.cache
+C:\Users\29361281\source\repos\WindowsFormsApp148451\WindowsFormsApp148451\obj\Debug\WindowsFormsApp148451.csproj.CoreCompileInputs.cache
+C:\Users\29361281\source\repos\WindowsFormsApp148451\WindowsFormsApp148451\obj\Debug\WindowsFormsApp148451.exe
+C:\Users\29361281\source\repos\WindowsFormsApp148451\WindowsFormsApp148451\obj\Debug\WindowsFormsApp148451.pdb
+C:\Users\29361281\source\repos\WindowsFormsApp148451\WindowsFormsApp148451\obj\Debug\WindowsFormsApp148451.AboutBox1.resources
